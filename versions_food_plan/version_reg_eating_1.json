@@ -1,0 +1,31 @@
+{
+    "04:00 am": {
+      "meal": "Coffee (pre-workout)",
+      "drink": "Water"
+    },
+    "07:45 am": {
+      "meal": "Eggs and shake (and popcorn if really hungry) (after workout)",
+      "drink": "Water"
+    },
+    "10:45 am": {
+      "meal": "Fruit and Gum",
+      "drink": "Coffee and Water"
+    },
+    "12:00 pm": {
+      "meal": "Rotisserie Chicken with Peanut Butter Stew & Broccoli",
+      "drink": "Water"
+    },
+    "03:00 pm": {
+      "meal": "Fruit & Gum",
+      "drink": "Coffee and Water"
+    },
+    "06:30 pm": {
+      "meal": "Eggs & Spinach Shake & Popcorn",
+      "drink": ""
+    },
+    "08:30 pm": {
+      "meal": "Nuts & Banana Chips",
+      "drink": ""
+    }
+  }
+  
